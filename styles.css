@@ -26,8 +26,8 @@ a{
     text-decoration:none;
 }
 #flag{
-    width: 100px;
-    height:100px;
+    width: 200px;
+    height:150px;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -50,8 +50,8 @@ h3{
 
 div img{
     
-    width:350px;
-    height:500px;
+    width:442px;
+    height:420px;
 }
 
 .item{
@@ -59,7 +59,7 @@ div img{
     flex-direction: column;
     gap:10px;
     align-items:center;
-    width:400px;
+    width:520px;
     text-align: center;
 }
 
